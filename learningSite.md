@@ -1,16 +1,6 @@
 Website Learning 
 
-* CodeSchool
-* TreeHouse
-* Lynda
-* Udemy
-* Skill Crush
-* Udacity
-* Code Avengers
-* Degreed
-* Hack Design
 * Stuk
-* Platzi
 * One Month
 * Dash
 * Tuts+
@@ -37,7 +27,7 @@ Website Learning
 | [w3schools](http://www.w3schools.com) | [KhanAcademy](https://www.khanacademy.org/)  | [CodeAcademy](https://www.codecademy.com/)  | [Coursera](https://www.coursera.org/)  | [edX](https://www.edx.org/)  |
 |---|---|---|---|---|
 | [codeschool](https://www.codeschool.com/)  | [TreeHouse](https://teamtreehouse.com/)  | [Lynda](https://www.lynda.com/)  | [Udemy](https://www.udemy.com/courses/)  | [Skill Crush](https://skillcrush.com/) |
-|   |   |   |   |  |
+| [Udacity](https://www.udacity.com/)  | [Code Avengers](https://www.codeavengers.com/)  | [Degreed](https://degreed.com/)  | [HackDesign](https://hackdesign.org/)  | [PLatzi](https://courses.platzi.com/) |
 |   |   |   |   |   |
 
 在线学习
