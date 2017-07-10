@@ -1,7 +1,7 @@
 Website Learning 
 
-w3schools
-Khan Academy
+* w3schools
+* Khan Academy
 CodeAcademy
 Coursera
 edX
