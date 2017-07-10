@@ -1,9 +1,5 @@
 Website Learning 
 
-* Khan Academy
-* CodeAcademy
-* Coursera
-* edX
 * CodeSchool
 * TreeHouse
 * Lynda
@@ -38,9 +34,9 @@ Website Learning
 * The Code Player
 
 
-| [w3schools](http://www.w3schools.com) | [khanacademy](https://www.khanacademy.org/)  |   |   |   |
+| [w3schools](http://www.w3schools.com) | [KhanAcademy](https://www.khanacademy.org/)  | [CodeAcademy](https://www.codecademy.com/)  | [Coursera](https://www.coursera.org/)  | [edX](https://www.edx.org/)  |
 |---|---|---|---|---|
-|   |   |   |   |  |
+| [codeschool](https://www.codeschool.com/)  | [TreeHouse](https://teamtreehouse.com/)  | [Lynda](https://www.lynda.com/)  | [Udemy](https://www.udemy.com/courses/)  | [Skill Crush](https://skillcrush.com/) |
 |   |   |   |   |  |
 |   |   |   |   |   |
 
